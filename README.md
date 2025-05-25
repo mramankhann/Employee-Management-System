@@ -9,3 +9,35 @@ I'm currently learning and leveling up my full stack skills, and this project is
 
 If you like it, feel free to ⭐ the repo and follow along as I grow!
 
+## Features
+
+- Secure login authentication
+- Add, edit, delete, and view employee records
+- Responsive and clean UI using Tailwind CSS
+- Fast performance with Vite
+- Reusable React components
+- Basic form validation and error handling
+
+## Tech Stack
+
+- React.js
+- Vite
+- Tailwind CSS
+- (Planned) Node.js & MongoDB for backend integration
+
+EMS/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+├── public/
+├── package.json
+├── vite.config.js
+└── README.md
+
+Hi, I’m Mohd Aman — a full stack developer currently learning and building real-world projects.
+This EMS project is part of my learning journey to gain hands-on experience with the MERN stack.
+
+LinkedIn: Mohd Aman
+
