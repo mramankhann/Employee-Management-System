@@ -1,43 +1,12 @@
-# Employee-Management-System
+# React + Vite
 
-Welcome to the **Employee Management System (EMS)** — a sleek and simple admin dashboard built with ⚛️ **React.js**, ⚡ **Vite**, and 🎨 **Tailwind CSS**!
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This project is designed to help admins easily 🧑‍💼 manage employee data — from adding new team members ✨ to editing details ✏️ or removing old records ❌. It includes a 🔐 secure login system to ensure that only authorized users can access the dashboard.
+Currently, two official plugins are available:
 
-Built with a focus on speed, design, and usability, this EMS is responsive, fast, and super easy to use.  
-I'm currently learning and leveling up my full stack skills, and this project is a big step in my journey. Next up: connecting it to a real backend, adding JWT authentication, and making it production-ready!
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-If you like it, feel free to ⭐ the repo and follow along as I grow!
+## Expanding the ESLint configuration
 
-## Features
-
-- Secure login authentication
-- Add, edit, delete, and view employee records
-- Responsive and clean UI using Tailwind CSS
-- Fast performance with Vite
-- Reusable React components
-- Basic form validation and error handling
-
-## Tech Stack
-
-- React.js
-- Vite
-- Tailwind CSS
-- (Planned) Node.js & MongoDB for backend integration
-
-EMS/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   └── main.jsx
-├── public/
-├── package.json
-├── vite.config.js
-└── README.md
-
-Hi, I’m Mohd Aman — a full stack developer currently learning and building real-world projects.
-This EMS project is part of my learning journey to gain hands-on experience with the MERN stack.
-
-LinkedIn: Mohd Aman
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
